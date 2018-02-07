@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Quizzy</string>
+    <string name="question1">public void submit(View view) {\n
+	String priceMsg = \"Free\";\n
+	displayMessage(priceMsg);\n
+}
+    </string>
+    <string name="question2">1.a) Which one is the variable name?</string>
+    <string name="q2_answer1">priceMsg</string>
+    <string name="q2_answer2">String</string>
+    <string name="q2_answer3">\"Free\"</string>
+    <string name="question3">1.b) What is the variable value?</string>
+    <string name="question4">1.c) What is the type of the variable?</string>
+    <string name="question5">1.d) What does this code do?</string>
+    <string name="q5_answer1">Displays the price \"Free\" as a message.</string>
+    <string name="q5_answer2">Disables a button from clicking it.</string>
+    <string name="q5_answer3">Changes the price of the order.</string>
+    <string name="question6">2. What is the problem with this code snippet?\n
+    private String getAccountName() {\n
+	return \"android@gmail.com\";\n
+	return \"droid@gmail.com\";\n
+}
+</string>
+    <string name="q6_answer1">The returned value does not have the expected return type.
+</string>
+    <string name="q6_answer2">The method is missing arguments.</string>
+    <string name="q6_answer3">The second return is unreachable.
+</string>
+
+</resources>
